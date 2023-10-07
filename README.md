@@ -23,7 +23,6 @@ bilibili_vision，a small project
 文档存储
 ![image](https://github.com/daweiTech/bilibili_vision-python-course-design/assets/72190717/95049beb-3b6f-4bc7-b5a2-903e2a2c1fb2)
 
-![Uploading image.png…]()
 
 
 
